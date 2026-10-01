@@ -1,0 +1,2 @@
+Los banners de las 5 categorias y el hero en movimiento ya vienen incluidos en index.html.
+Fotos de producto (opcional): img/categoria-nombre.jpg (minusculas, sin tildes). Ej: desgranados-pollo.jpg, perros-calientes-suizo.jpg.
